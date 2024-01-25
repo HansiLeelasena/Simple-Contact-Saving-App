@@ -26,5 +26,7 @@ Following shows what I have created as a Simple Contact Saving Mobile App and ho
 1. This what user sees when user opens the app.
 <img src="https://github.com/HansiLeelasena/Simple-Contact-Saving-App/blob/35c655624aeb2c2cd40b30383016815c210fb08f/Screenshot%202023-07-17%20195319.png" width="50%" height="20%"  />
 
-2. 
+2. When click the right bottom user can add a contact to the contact list.
+<img src="https://github.com/HansiLeelasena/Simple-Contact-Saving-App/blob/3cafe8df8b4879f9fee2547d635b54488d3cedd8/Screenshot%202023-07-16%20220521.png" width="50%" height="20%"  />
+
 
