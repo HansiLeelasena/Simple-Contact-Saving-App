@@ -24,7 +24,7 @@ Design a simple-quality contact saving app with an SQLite database using Android
 
 Following shows what I have created as a Simple Contact Saving Mobile App and how its working.
 1. This what user sees when user opens the app.
-<img src="https://github.com/HansiLeelasena/Simple-Contact-Saving-App/blob/35c655624aeb2c2cd40b30383016815c210fb08f/Screenshot%202023-07-17%20195319.png" width="50%" height="50%"  />
+<img src="https://github.com/HansiLeelasena/Simple-Contact-Saving-App/blob/35c655624aeb2c2cd40b30383016815c210fb08f/Screenshot%202023-07-17%20195319.png" width="50%" height="20%"  />
 
 2. 
 
